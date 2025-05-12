@@ -1,0 +1,48 @@
+{
+    "basic": [
+      {
+        "word": "apple",
+        "translation": "яблоко",
+        "example": "I eat an apple every morning.",
+        "level": "A1"
+      },
+      {
+        "word": "run",
+        "translation": "бегать",
+        "example": "He runs in the park every day.",
+        "level": "A1"
+      }
+    ],
+    "work": [
+      {
+        "word": "deadline",
+        "translation": "крайний срок",
+        "example": "The deadline for the project is Friday.",
+        "level": "B1"
+      }
+    ],
+    "travel": [
+      {
+        "word": "suitcase",
+        "translation": "чемодан",
+        "example": "My suitcase is very heavy.",
+        "level": "A2"
+      }
+    ],
+    "technology": [
+      {
+        "word": "algorithm",
+        "translation": "алгоритм",
+        "example": "This app uses a complex algorithm.",
+        "level": "B2"
+      }
+    ],
+    "advanced": [
+      {
+        "word": "ambiguity",
+        "translation": "двусмысленность",
+        "example": "The poem's ambiguity makes it interesting.",
+        "level": "C1"
+      }
+    ]
+  }
