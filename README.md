@@ -14,7 +14,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourname/english-bot.git
+git clone https://github.com/bsekinaev/english-bot.git
 cd english-bot
 Установите зависимости:
 
