@@ -35,14 +35,13 @@
 git clone https://github.com/bsekinaev/english-bot.git
 cd english-bot
 pip install -r requirements.txt
-Настройка
+### Настройка
 Создайте файл .env:
-
 ini
 BOT_TOKEN=your_bot_token_here
 ADMIN_ID=your_telegram_id
 DATABASE_URL=sqlite:///data/vocabulary.db
-Запуск
+###   Запуск
 bash
 python src/main.py
 🖼 Скриншоты интерфейса
